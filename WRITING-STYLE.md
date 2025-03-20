@@ -1,7 +1,7 @@
 # Schreibstil
 
 - schreibe vorwiegend kurze Hauptsätze
-- vermeide langer, verschachtelte Sätze
+- vermeide lange, verschachtelte Sätze
 - verwende aktive Grammatik, möglichst keine Passiv-Konstruktionen
 - immer sagen: *wer* etwas tut, *welche Komponente* etwas bewirkt, *was* für etwas verantwortlich ist
 - passive Satzkonstruktionen verschleiern oft Zusammenhänge, aktive jedoch enthüllen sie
