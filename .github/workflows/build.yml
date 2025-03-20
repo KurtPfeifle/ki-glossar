@@ -4,6 +4,9 @@ on:
   push:
     tags:
       - 'v*.*.*'  # startet automatisch bei Push eines Tags wie v0.1.0
+    branches:
+      - main
+  workflow_dispatch:  # Ermöglicht manuelles Starten
 
 jobs:
   build-release:
