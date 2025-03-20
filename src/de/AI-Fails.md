@@ -66,7 +66,7 @@ Mit der Weiterentwicklung von KI werden solche Lektionen entscheiden, wie wir di
 | ***"AI's wilder Ruf, Logik in Schaltkreisen irr, Lachen füllt die Luft."*** (Grok)                                 |
 +:==================================================================================================================:+
 
-### Verwandte Themen: {.seealso}
+### Verwandte und andere Themen: {.seealso}
 
 [AI Ethics](#AI-Ethics) |
 [Bias](#Bias) |
