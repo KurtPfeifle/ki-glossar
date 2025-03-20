@@ -43,4 +43,6 @@ jobs:
             build/pdf/*.pdf
             build/md/*.md
 
+permissions:
+  contents: write  # Berechtigung für Release-Erstellung setzen
 
