@@ -3,46 +3,42 @@ name: Build and Release KI-Glossar
 on:
   push:
     tags:
-      - 'v*.*.*'  # startet automatisch bei Push eines Tags wie v0.1.0
-    branches:
-      - main
-  workflow_dispatch:  # Ermöglicht manuelles Starten
+      - 'v*.*.*'  # Automatische Releases bei Tags wie "v0.1.0"
+  workflow_dispatch:  # Ermöglicht manuelles Starten in GitHub
+
+permissions:
+  contents: write  # Notwendig für das Erstellen von Releases
 
 jobs:
   build-release:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      # Pandoc installieren
-      - name: Install Pandoc
+      - name: Installiere Abhängigkeiten (Pandoc, XeLaTeX, Liberation Sans Narrow)
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra fonts-liberation
+          sudo apt update
+          sudo apt install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra fonts-liberation
 
-      # Build ausführen
-      - name: Build KI-Glossar
+      - name: Baue das KI-Glossar (HTML, EPUB, PDF, Markdown)
         run: make all
 
-      # Artefakte hochladen (optional, zur Kontrolle)
-      - name: Upload Artefacts
+      - name: Lade Artefakte hoch (optional)
         uses: actions/upload-artifact@v4
         with:
           name: KI-Glossar-${{ github.ref_name }}
           path: build/*
 
-      # Release automatisch erstellen
-      - name: Create GitHub Release
+      - name: Erstelle GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ github.ref }}
+          tag_name: ${{ github.ref_name }}
           files: |
             build/html/*.html
             build/epub/*.epub
             build/pdf/*.pdf
             build/md/*.md
-
-permissions:
-  contents: write  # Berechtigung für Release-Erstellung setzen
+          prerelease: false  # Falls Pre-Release gewünscht, ändern auf "true"
 
