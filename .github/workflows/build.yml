@@ -1,0 +1,43 @@
+name: Build and Release KI-Glossar
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'  # startet automatisch bei Push eines Tags wie v0.1.0
+
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # Pandoc installieren
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra fonts-liberation
+
+      # Build ausführen
+      - name: Build KI-Glossar
+        run: make all
+
+      # Artefakte hochladen (optional, zur Kontrolle)
+      - name: Upload Artefacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: KI-Glossar-${{ github.ref_name }}
+          path: build/*
+
+      # Release automatisch erstellen
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref }}
+          files: |
+            build/html/*.html
+            build/epub/*.epub
+            build/pdf/*.pdf
+            build/md/*.md
+
+
