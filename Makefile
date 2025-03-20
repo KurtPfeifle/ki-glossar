@@ -5,14 +5,14 @@
 PANDOC=pandoc
 SRC_DIR=src/de
 BUILD_DIR=build
-VERSION=0.0.9
+VERSION=0.1.0
 
 TITLE=$(SRC_DIR)/000-ki-title.txt
 INDEX=$(SRC_DIR)/001-ki-index.txt
 SRC_FILES=$(TITLE) $(INDEX) $(wildcard $(SRC_DIR)/*.md)
 
 # Alle Formate bauen
-all: html epub md pdf
+all: html epub pdf # md
 
 # HTML-Ausgabe generieren
 html: $(SRC_FILES)
@@ -52,9 +52,8 @@ pdf: $(SRC_FILES)
 		-s \
 		--shift-heading-level-by=-1 \
 		--pdf-engine=xelatex \
-		-V papersize=a4 \
 		-V fontsize=11pt \
-		-V geometry:"margin=2.5cm" \
+		-V geometry:"paperwidth=595pt,paperheight=842pt,margin=2.0cm" \
 		-o $(BUILD_DIR)/pdf/KI-Glossar-v$(VERSION).pdf
 
 # Clean-Targets zum selektiven Löschen einzelner Formate
