@@ -1,0 +1,559 @@
+
+Hier findet man den alphabetischen Index aller Einträge dieses Glossars.
+
+### 3 {.index} 
+
+[3D-Modeling](#3D-Modeling) |
+[3D-Rekonstruktion](#3D-Rekonstruktion) |
+
+### A {.index} 
+
+[ACT-R](#ACT-R) |
+[Adapter-Tuning](#Adapter-Tuning) |
+[Adobe Firefly](#Adobe-Firefly) |
+[Adversarial-Examples](#Adversarial-Examples) |
+[Agent](#Agent) |
+[Agentic AI](#Agentic-AI) |
+[AGI](#Artificial-General-Intelligence) |
+[AI Alignment](#AI-Alignment) |
+[AI Doom](#AI-Doom) |
+[AI Ethics](#AI-Ethics) |
+[AI Jailbreak](#AI-Jailbreak) |
+[AI Risk](#AI-Risk) |
+[AI Safety](#AI-Safety) |
+[AI Security](#AI-Security) |
+[AI-Act](#AI-Act) |
+[Aktives Lernen](#Aktives-Lernen) |
+[Alan Turing](#Alan-Turing) |
+[Algorithmic Bias](#Algorithmic-Bias) |
+[Alignment Tax](#Alignment-Tax) |
+[Alignment](#Alignment) |
+[AlphaCode](#AlphaCode) |
+[AlphaFold](#AlphaFold) |
+[AlphaGo](#AlphaGo) |
+[AlphaZero](#AlphaZero) |
+[Anthropic](#Anthropic) |
+[API](#Application-Programming-Interface) |
+[Application Programming Interface](#Application-Programming-Interface) |
+[Application Specific Integrated Circuit](#Application-Specific-Integrated-Circuit) |
+[Artificial General Intelligence](#Artificial-General-Intelligence) |
+[Artificial Intelligence](#Artificial-Intelligence) |
+[Artificial Neural Network](#Artificial-Neural-Network) |
+[Artificial Superintelligence](#Artificial-Superintelligence) |
+[ASI](#Artificial-Super-Intelligence) |
+[ASIC](#Application-Specific-Integrated-Circuit) |
+[Attention-Mechanism](#Attention-Mechanism) |
+[Audio-Generation](#Audio-Generation) |
+[Augmented Reality](#Augmented-Reality) |
+[Autoencoder](#Autoencoder) |
+[AutoGPT](#AutoGPT) |
+[Autograd](#Autograd) |
+[Automatisierung](#Automatisierung) |
+[Autonomous-Agent](#Autonomous-Agent) |
+
+### B {.index} 
+
+[BERT](#BERT) |
+[BLOOM](#BLOOM) |
+[Baidu](#Baidu) |
+[Bard](#Bard) |
+[Batch Normalization](#Batch-Normalization) |
+[Benchmark](#Benchmark) |
+[Benchmarks](#Benchmarks) |
+[Bias](#Bias) |
+[Bilderkennung](#Bilderkennung) |
+[Black Box](#Black-Box) |
+
+### C {.index}
+
+[Catastrophic Forgetting](#Catastrophic-Forgetting) |
+[Causal Reasoning](#Causal-Reasoning) |
+[Central Processing Unit](#Central-Processing-Unit) |
+[Chain-of-Thought-Prompting](#Chain-of-Thought-Prompting) |
+[Chain-of-Thought](#Chain-of-Thought) |
+[Chat-History](#Chat-History) |
+[Chatbot](#Chatbot) |
+[ChatGPT](#ChatGPT) |
+[Chinese-Room-Argument](#Chinese-Room-Argument) |
+[CI/CD](#CI--CD) |
+[CLARION](#CLARION) |
+[Claude](#Claude) |
+[CLIP-ViT](#CLIP-ViT) |
+[CLIP](#CLIP) |
+[CNN](#Convolutional-Neural-Network) |
+[Code-Generation](#Code-Generation) |
+[Codex](#Codex) |
+[Cognitive Architecture](#Cognitive-Architecture) |
+[Common-Crawl](#Common-Crawl) |
+[Computability](#Computability) |
+[Compute Budget](#Compute-Budget) |
+[Compute](#Compute) |
+[Computer Vision](#Computer-Vision) |
+[ComputerVision](#ComputerVision) |
+[Conditional Random Fields](#Conditional-Random-Fields) |
+[Consciousness](#Consciousness) |
+[Constitutional-AI](#Constitutional-AI) |
+[Content Moderation](#Content-Moderation) |
+[Context Length](#Context-Length) |
+[Context Window](#Context-Window) |
+[ContextWindow](#ContextWindow) |
+[Conversational AI](#Conversational-AI) |
+[Convolutional Neural Network](#Convolutional-Neural-Network) |
+[Cooperative Inverse Reinforcement Learning](#Cooperative-Inverse-Reinforcement-Learning) |
+[Core ML](#Core-ML) |
+[CPU](#Central-Processing-Unit) |
+[CRF](#Conditional-Random-Fields) |
+[Cross Attention](#Cross-Attention) |
+[CUDA](#CUDA) |
+
+### D {.index} 
+
+[DALL-E](#DALL-E) |
+[DSGVO](#DSGVO) |
+[Data Augmentation](#Data-Augmentation) |
+[Data Contamination](#Data-Contamination) |
+[Data Poisoning](#Data-Poisoning) |
+[Data Privacy](#Data-Privacy) |
+[Data Science](#Data-Science) |
+[Data Scraping](#Data-Scraping) |
+[Data Sovereignty](#Data-Sovereignty) |
+[DataScraping](#DataScraping) |
+[DataSovereignty](#DataSovereignty) |
+[Datenschutz Grundverordnung](#Datenschutz-Grundverordnung) |
+[Decision-Making](#Decision-Making) |
+[Deep Fake](#Deep-Fake) |
+[Deep Learning](#Deep-Learning) |
+[Deep Reinforcement-Learning](#Deep-Reinforcement-Learning) |
+[DeepFake](#DeepFake) |
+[DeepLearning](#DeepLearning) |
+[DeepMind](#DeepMind) |
+[Dependency-Parsing](#Dependency-Parsing) |
+[DevOps](#DevOps) |
+[Dialog Management](#Dialog-Management) |
+[Differential Privacy](#Differential-Privacy) |
+[Diffusion Models](#Diffusion-Models) |
+[Digital Twin](#Digital-Twin) |
+[Dimensionality Reduction](#Dimensionality-Reduction) |
+[Dismbodied AI](#Dismbodied-AI) |
+[Distributed Computing](#Distributed-Computing) |
+[Do Anything Now](#Do-Anything-Now) |
+[Domain Adaptation](#Domain-Adaptation) |
+
+### E {.index} 
+
+[EPIC](#EPIC) |
+[ERNIE](#ERNIE) |
+[Edge AI](#Edge-AI) |
+[EdgeAI](#EdgeAI) |
+[Efficient Frontier](#Efficient-Frontier) |
+[Eleuther AI](#Eleuther-AI) |
+[Embedding](#Embedding) |
+[Embodied AI](#Embodied-AI) |
+[Emergent Abilities](#Emergent-Abilities) |
+[Emergent Behavior](#Emergent-Behavior) |
+[Emergent Goals](#Emergent-Goals) |
+[Encoder Decoder](#Encoder-Decoder) |
+[Ethical AI](#Ethical-AI) |
+[Europaeische-KI](#Europaeische-KI) |
+[Existential Risk](#Existential-Risk) |
+[Explainable AI](#Explainable-AI) |
+
+### F {.index} 
+
+[Fair Use](#Fair-Use) |
+[Fairness](#Fairness) |
+[Feature Extraction](#Feature-Extraction) |
+[Federated Learning](#Federated-Learning) |
+[Few Shot Learning](#Few-Shot-Learning) |
+[Field-Programmable-Gate-Array](#Field-Programmable-Gate-Array)
+[Fine Tuning](#Fine-Tuning) |
+[Foundation Model](#Foundation-Model) |
+[FPGA](#Field-Programmable-Gate-Array)
+[Frontier Models](#Frontier-Models) |
+[Function-Calling](#Function-Calling) |
+
+### G {.index} 
+
+[GAN](#Generative-Adversarial-Network) |
+[GPAI](#General-Purpose-Artificial-Intelligence) |
+[GPT-3.5](#GPT-3.5) |
+[GPT-3](#GPT-3) |
+[GPT-4](#GPT-4) |
+[GPT-4V](#GPT-4V) |
+[GPT-4o](#GPT-4o) |
+[GPT-4v](#GPT-4v) |
+[GPT-4.5](#GPT-4.5) |
+[GPT](#Generative-Pre-Trained-Transformer) |
+[GPU](#Graphics-Processing-Unit) |
+[GRU](#Gated-Recurrent-Unit) |
+[Gated Recurrent Unit](#Gated-Recurrent-Unit) |
+[Gemini](#Gemini) |
+[General Intelligence](#General-Intelligence) |
+[General Purpose Artificial Intelligence](#General-Purpose-Artificial-Intelligence) |
+[Generative AI](#Generative-AI) |
+[Generative Adversarial Network](#Generative-Adversarial-Network) |
+[Generative Pre-Trained Transformer](#Generative-Pre-Trained-Transformer) |
+[GitHub Copilot](#GitHub-Copilot) |
+[GitHub](#GitHub) |
+[Google Assistant](#Google-Assistant) |
+[Google Brain](#Google-Brain) |
+[Google Cloud](#Google-Cloud) |
+[Google DeepMind](#Google-DeepMind) |
+[Google Imagen](#Google-Imagen) |
+[Google Lumiere](#Google-Lumiere) |
+[Gradient Descent](#Gradient-Descent) |
+[Graphics-Processing Unit](#Graphics-Processing-Unit) |
+[Green AI](#Green-AI) |
+[Grounding](#Grounding) |
+[Guardrails](#Guardrails) |
+
+### H {.index} 
+
+[Hallucination](#Hallucination) |
+[Hardware Acceleration](#Hardware-Acceleration) |
+[Hidden Markov Models](#Hidden-Markov-Models) |
+[Hugging Face](#Hugging-Face) |
+[Human Feedback](#Human-Feedback) |
+[Human-in-the-Loop](#Human-in-the-Loop) |
+[Hybrid AI](#Hybrid-AI) |
+[Hyperparameter](#Hyperparameter) |
+
+### I {.index} 
+
+[Image-Recognition](#Image-Recognition) |
+[Implicit Neural Representations](#Implicit-Neural-Representations) |
+[In-Context-Learning](#In-Context-Learning) |
+[Inference Endpoint](#Inference-Endpoint) |
+[Inference Optimization](#Inference-Optimization) |
+[Inference Speed](#Inference-Speed) |
+[Inference](#Inference) |
+[Information Extraction](#Information-Extraction) |
+[Information Retrieval](#Information-Retrieval) |
+[Instruction Tuning](#Instruction-Tuning) |
+[Intelligence Explosion](#Intelligence-Explosion) |
+[Intent Recognition](#Intent-Recognition) |
+[Interpretability](#Interpretability) |
+[Interpretable ML](#Interpretable-ML) |
+[IoT](#IoT) |
+
+### J {.index} 
+
+[Jailbreaking](#Jailbreaking) |
+
+### K {.index} 
+
+[KI-Energieverbrauch](#KI-Energieverbrauch) |
+[KI-Modell](#KI-Modell) |
+[KI-Regulierung](#KI-Regulierung) |
+[KI](#KI) |
+[Knowledge Distillation](#Knowledge-Distillation) |
+[Knowledge Graph](#Knowledge-Graph) |
+[Kognitionspsychologie](#Kognitionspsychologie) |
+[Kognitionswissenschaften](#Kognitionswissenschaften) |
+[Kognitive Architectures](#Kognitive-Architectures) |
+[Künstliche Intelligenz](#Künstliche-Intelligenz) |
+
+### L {.index} 
+
+[LIDA](#Learning-Intelligent-Distribution-Agent) |
+[Learning Intelligent Distribution Agent](#Learning-Intelligent-Distribution-Agent) |
+[LLM API](#LLM-API) |
+[LLM Alignment](#LLM-Alignment) |
+[LLM Evaluation](#LLM-Evaluation) |
+[LLM Orchestration](#LLM-Orchestration) |
+[LLM-as-a-Service](#LLM-as-a-Service) |
+[LLM](#Large-Language-Model) |
+[LLaVA](#LLaVA) |
+[LSTM](#Long-Short-Term-Memory) |
+[LVM](#Large-Vision-Model) |
+[LaMDA](#Language-Model-for-Dialog-Application) |
+[Language Model for Dialog Application](#Language-Model-for-Dialog-Application) |
+[LangChain](#LangChain) |
+[Language Model](#Language-Model) |
+[LAM](#Large-Action-Model) |
+[Large-Action-Model](#Large-Action-Model) |
+[Large Language Model](#Large-Language-Model) |
+[Large Multimodal Model](#Large-Multimodal-Model) |
+[Large Vision Model](#Large-Vision-Model) |
+[Latency](#Latency) |
+[Latent Space](#Latent-Space) |
+[LatentSpace](#LatentSpace) |
+[Layer Normalization](#Layer-Normalization) |
+[Learning Rate](#Learning-Rate) |
+[Learning](#Learning) |
+[Lemmatization](#Lemmatization) |
+[Llama](#Llama) |
+[LoRA](#LoRA) |
+[Logic](#Logic) |
+[Long-Short-Term-Memory](#Long-Short-Term-Memory) |
+[Low Rank Adaptation](#Low-Rank-Adaptation) |
+[Luma AI](#Luma-AI) |
+
+### M {.index} 
+
+[Machine Intelligence-Research-Institute](#Machine-Intelligence-Research-Institute) |
+[Machine Learning](#Machine-Learning) |
+[Machine Translation](#Machine-Translation) |
+[Markov-Kette](#Markov-Kette) |
+[Masked Self Attention](#Masked-Self-Attention) |
+[Mechanistic Interpretability](#Mechanistic-Interpretability) |
+[Media Authentication](#Media-Authentication) |
+[Memory](#Memory) |
+[Meta AI](#Meta-AI) |
+[Meta Learning](#Meta-Learning) |
+[Meta-Make-A-Video](#Meta-Make-A-Video) |
+[Microsoft Copilot](#Microsoft-Copilot) |
+[Microsoft](#Microsoft) |
+[Midjourney](#Midjourney) |
+[Mistral AI](#Mistral-AI) |
+[Mistral](#Mistral) |
+[Mixture-of-Experts](#Mixture-of-Experts) |
+[MoE](#MoE) |
+[Modality](#Modality) |
+[Model Card](#Model-Card) |
+[Model Compression](#Model-Compression) |
+[Model Deployment](#Model-Deployment) |
+[Model Distillation](#Model-Distillation) |
+[Model Evaluation](#Model-Evaluation) |
+[Model Governance](#Model-Governance) |
+[Model Lineage](#Model-Lineage) |
+[Model Serving](#Model-Serving) |
+[Model-Weights](#Model-Weights) |
+[Moderation](#Moderation) |
+[Monte-Carlo-Methods](#Monte-Carlo-Methods) |
+[Monte-Carlo-Tree-Search](#Monte-Carlo-Tree-Search) |
+[Morphological Analysis](#Morphological-Analysis) |
+[MuZero](#MuZero) |
+[Multi Agent System](#Multi-Agent-System) |
+[Multi Agent Systeme](#Multi-Agent-Systeme) |
+[Multi Modal AI](#Multi-Modal-AI) |
+[Multi Modal LLM](#Multi-Modal-LLM) |
+[Multi Task Learning](#Multi-Task-Learning) |
+[MultiModalAI](#MultiModalAI) |
+
+### N {.index} 
+
+[NER](#NER) |
+[NLP](#NLP) |
+[NLU](#NLU) |
+[Named-Entity-Recognition](#Named-Entity-Recognition) |
+[Natural Language Generation](#Natural-Language-Generation) |
+[Natural Language Processing](#Natural-Language-Processing) |
+[Natural Language Understanding](#Natural-Language-Understanding) |
+[NeRF](#NeRF) |
+[Neural Architecture Search](#Neural-Architecture-Search) |
+[Neural Network](#Neural-Network) |
+[Neural Radiance Fields](#Neural-Radiance-Fields) |
+[Neural Rendering](#Neural-Rendering) |
+[NeuralNetwork](#NeuralNetwork) |
+[Neurosymbolische Systeme](#Neurosymbolische-Systeme) |
+[Neurowissenschaften](#Neurowissenschaften) |
+[Nvidia](#Nvidia) |
+
+### O {.index} 
+
+[Object Detection](#Object-Detection) |
+[On-Device-ML](#On-Device-ML) |
+[Open-Closed-Source-KI](#Open-Closed-Source-KI) |
+[Open Pre-trained Transformers](#Open-Pre-trained-Transformers) |
+[Open-Source AI](#Open-Source-AI) |
+[OpenAI](#OpenAI) |
+[Optimization](#Optimization) |
+[Outer-versus-Inner-Alignment](#Outer-versus-Inner-Alignment) |
+[Overfitting](#Overfitting) |
+
+### P {.index} 
+
+[PEFT](#PEFT) |
+[PII](#PII) |
+[POS-Tagging](#POS-Tagging) |
+[PaLM](#PaLM) |
+[Papierclip-Maximierer](#Papierclip-Maximierer) |
+[Parameter-Count](#Parameter-Count) |
+[Parameter Efficient Fine Tuning](#Parameter-Efficient-Fine-Tuning) |
+[Parameter](#Parameter) |
+[Part-of-Speech-Tagging](#Part-of-Speech-Tagging) |
+[Perplexity](#Perplexity) |
+[Personally Identifiable Information](#Personally-Identifiable-Information) |
+[Pika-Labs](#Pika-Labs) |
+[Pre-Training](#Pre-Training) |
+[Predictive Analytics](#Predictive-Analytics) |
+[Predictive Text](#Predictive-Text) |
+[Preference Learning](#Preference-Learning) |
+[Prefix-Tuning](#Prefix-Tuning) |
+[Privacy](#Privacy) |
+[Problem-Solving](#Problem-Solving) |
+[Programmsynthese](#Programmsynthese) |
+[Prompt Engineering](#Prompt-Engineering) |
+[Prompt Injection](#Prompt-Injection) |
+[Prompt Tuning](#Prompt-Tuning) |
+[Prompt](#Prompt) |
+[PromptEngineering](#PromptEngineering) |
+[Proteinfaltung](#Proteinfaltung) |
+[Pruning](#Pruning) |
+[PyTorch](#PyTorch) |
+
+### Q {.index} 
+
+[QLoRA](#Quantized-Low-Rank-Adaptation) |
+[Quantization](#Quantization) |
+[Quantized-Low-Rank-Adaptation](#Quantized-Low-Rank-Adaptation) |
+
+### R {.index} 
+
+[RAG](#RAG) |
+[REST](#REST) |
+[RLHF](#RLHF) |
+[RNN](#RNN) |
+[Reasoning-Engine](#Reasoning-Engine) |
+[Reasoning](#Reasoning) |
+[Recommender-System](#Recommender-System) |
+[Recurrent Neural Network](#Recurrent-Neural-Network) |
+[Red-Teaming](#Red-Teaming) |
+[RedTeaming](#RedTeaming) |
+[Regularization](#Regularization) |
+[Reinforcement Learning-from-Human-Feedback](#Reinforcement-Learning-from-Human-Feedback) |
+[Reinforcement-Learning](#Reinforcement-Learning) |
+[ReinforcementLearning](#ReinforcementLearning) |
+[ResNet](#ResNet) |
+[Response-Time](#Response-Time) |
+[Responsible AI](#Responsible-AI) |
+[ResponsibleAI](#ResponsibleAI) |
+[Retrieval-Augmented-Generation](#Retrieval-Augmented-Generation) |
+[Reward Hacking](#Reward-Hacking) |
+[Reward Model](#Reward-Model) |
+[Reward Modeling](#Reward-Modeling) |
+[Robotics](#Robotics) |
+[Robotik](#Robotik) |
+[Robustness](#Robustness) |
+[Rogue-AI](#Rogue-AI) |
+[Runway-Gen-2](#Runway-Gen-2) |
+
+### S {.index} 
+
+[SLM](#SLM) |
+[SOAR](#SOAR) |
+[Safety Alignment](#Safety-Alignment) |
+[Safety Filter](#Safety-Filter) |
+[Scaling Law](#Scaling-Law) |
+[Secure Computing](#Secure-Computing) |
+[Selbst Reflektion](#Selbst-Reflektion) |
+[Self Attention](#Self-Attention) |
+[Self-Hosted-LLM](#Self-Hosted-LLM) |
+[Self-Supervised-Learning](#Self-Supervised-Learning) |
+[Semantic Analysis](#Semantic-Analysis) |
+[Semantic Kernel](#Semantic-Kernel) |
+[Semantic Search](#Semantic-Search) |
+[Semi-Supervised-Learning](#Semi-Supervised-Learning) |
+[Semiparametric-Model](#Semiparametric-Model) |
+[Sentient AI](#Sentient-AI) |
+[Sentiment Analysis](#Sentiment-Analysis) |
+[Sequence-Labeling](#Sequence-Labeling) |
+[Sequence Modeling](#Sequence-Modeling) |
+[Simulation](#Simulation) |
+[Siri](#Siri) |
+[Skalierungs-Hypothese](#Skalierungs-Hypothese) |
+[Small Language Models](#Small-Language-Models) |
+[Sora](#Sora) |
+[Specification Gaming](#Specification-Gaming) |
+[Speech Recognition](#Speech-Recognition) |
+[Speech Synthesis](#Speech-Synthesis) |
+[StabilityAI](#StabilityAI) |
+[Stable Diffusion](#Stable-Diffusion) |
+[StableDiffusion](#StableDiffusion) |
+[Stemming](#Stemming) |
+[Strukturbiologie](#Strukturbiologie) |
+[Superintelligence](#Superintelligence) |
+[Supervised-Learning](#Supervised-Learning) |
+[Symbolic AI](#Symbolic-AI) |
+[Synthetic Data](#Synthetic-Data) |
+[System-Message](#System-Message) |
+[System-Prompt](#System-Prompt) |
+
+### T {.index} 
+
+[T5](#T5) |
+[TPU](#TPU) |
+[TTI](#TTI) |
+[TTS](#TTS) |
+[TTV](#TTV) |
+[Tensor-Processing-Unit](#Tensor-Processing-Unit) |
+[Tensor](#Tensor) |
+[TensorFlow](#TensorFlow) |
+[Text-Embeddings](#Text-Embeddings) |
+[Text-Generation](#Text-Generation) |
+[Text-Mining](#Text-Mining) |
+[Text-to-3D](#Text-to-3D) |
+[Text-to-Audio](#Text-to-Audio) |
+[Text-to-Image](#Text-to-Image) |
+[Text-to-Music](#Text-to-Music) |
+[Text-to-Speech](#Text-to-Speech) |
+[Text-to-Text-Transfer-Transformer](#Text-to-Text-Transfer-Transformer) |
+[Text-to-Video](#Text-to-Video) |
+[Token Limit](#Token-Limit) |
+[Token](#Token) |
+[TokenLimit](#TokenLimit) |
+[Tokenization](#Tokenization) |
+[Tool-Use](#Tool-Use) |
+[Top-K-Sampling](#Top-K-Sampling) |
+[Top-P-Sampling](#Top-P-Sampling) |
+[Toxicity](#Toxicity) |
+[Training Data](#Training-Data) |
+[Training Run](#Training-Run) |
+[Training](#Training) |
+[TrainingData](#TrainingData) |
+[Transfer Learning](#Transfer-Learning) |
+[Transformer Architecture](#Transformer-Architecture) |
+[Transformer](#Transformer) |
+[Trust-and-Safety](#Trust-and-Safety) |
+[Turing-Test](#Turing-Test) |
+
+### U {.index} 
+
+[Uncensored-AI](#Uncensored-AI) |
+[Uncertainty](#Uncertainty) |
+[Unforeseen Consequences](#Unforeseen-Consequences) |
+[Universal Computation](#Universal-Computation) |
+[Universal Diffusion Model](#Universal-Diffusion-Model) |
+[Unsupervised Learning](#Unsupervised-Learning) |
+
+### V {.index} 
+
+[VAE](#VAE) |
+[Value Alignment](#Value-Alignment) |
+[Variational Autoencoder](#Variational-Autoencoder) |
+[Vector-Database](#Vector-Database) |
+[Vector Representation](#Vector-Representation) |
+[Vector](#Vector) |
+[Vertex AI](#Vertex-AI) |
+[Video-Generation](#Video-Generation) |
+[Vision Encoder](#Vision-Encoder) |
+[Vision Language-Models](#Vision-Language-Models) |
+[Vision Transformer](#Vision-Transformer) |
+[Visual Question-Answering](#Visual-Question-Answering) |
+[Voice-Cloning](#Voice-Cloning) |
+[Volumetrisches Rendering](#Volumetrisches-Rendering) |
+
+### W {.index} 
+
+[Watermarking](#Watermarking) |
+[Web Browsing](#Web-Browsing) |
+[Web Crawling](#Web-Crawling) |
+[Weight-Quantization](#Weight-Quantization) |
+[Weight-Sharing](#Weight-Sharing) |
+[Whisper](#Whisper) |
+[Word-Embedding](#Word-Embedding) |
+
+### X {.index} 
+
+[XAI](#XAI) |
+[xAI](#xAI) |
+[XLA](#XLA) |
+
+### Z {.index} 
+
+[Zero-Shot-Learning](#Zero-Shot-Learning) |
+[Zero-Shot-Prompt](#Zero-Shot-Prompt) |
+
+----
+
