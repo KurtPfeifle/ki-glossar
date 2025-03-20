@@ -1,7 +1,7 @@
 # Ziel
 
 Schaffung eines mehr oder weniger umfassenden Glossars zum Themengebiet "AI/KI, LLMs und Machine Learning".
-Das Glossar wird als HTML, EPUB und PDF (sowie evtl. weitere Formate veröffentlicht werden.
+Das Glossar wird als HTML, EPUB und PDF (sowie evtl. weitere Formate) veröffentlicht werden.
 
 Das fertige Werk kann als Nachschlage-Ressource dienen.
 Zusätzlich könnte es ein Tutorial sein, das Interessenten von einem beliebigen Einstiegspunkt aus einen Weg durch das gesamte Themen-Dickicht rund um AI/KI bietet.
