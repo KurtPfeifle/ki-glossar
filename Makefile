@@ -9,7 +9,9 @@ VERSION=0.1.0
 
 TITLE=$(SRC_DIR)/000-ki-title.txt
 INDEX=$(SRC_DIR)/001-ki-index.txt
-SRC_FILES=$(TITLE) $(INDEX) $(wildcard $(SRC_DIR)/*.md)
+LICENSE=$(SRC_DIR)/002-ki-lizenz.txt
+
+SRC_FILES=$(TITLE) $(INDEX) $(LICENSE) $(wildcard $(SRC_DIR)/*.md)
 
 # Alle Formate bauen
 all: html epub pdf # md
