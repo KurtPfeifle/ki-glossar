@@ -37,9 +37,10 @@ Die Implementierung von Algorithmen erfordert präzise mathematische und informa
 
 #### Multiplikationsalgorithmus
 
-Ein elementarer Algorithmus zur Berechnung von 4 * 5:
+Ein elementarer Algorithmus zur Berechnung von *"4 x 5"*:
 
 Verbale Beschreibung des Multiplikationsalgorithmus:
+
 1. **Initialisierung**: 
    - Erster Faktor: 4
    - Zweiter Faktor: 5

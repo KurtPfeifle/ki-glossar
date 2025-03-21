@@ -1,6 +1,6 @@
 ## xAI {#xAI .chapter .small .term}
 
-**xAI** (eXplainable AI) bezeichnet Elon Musks KI-Unternehmen, gegründet im Juli 2023, das mit seinem Sprachmodell Grok bekanntheit erlangte.
+**xAI** bezeichnet Elon Musks KI-Unternehmen, gegründet im Juli 2023, das mit seinem Sprachmodell Grok Bekanntheit erlangte.
 
 ### Unternehmensentwicklung {.explanation}
 
